@@ -32,7 +32,6 @@ The goal is to generate synthetic malignant tumor samples to balance the dataset
 ## Models Used
 - Vanilla GAN
 - Wasserstein GAN (WGAN)
-- MLPClassifier
 
 ---
 
