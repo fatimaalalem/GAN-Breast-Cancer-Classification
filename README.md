@@ -54,5 +54,3 @@ The goal is to generate synthetic malignant tumor samples to balance the dataset
 ## Repository Contents
 - Jupyter Notebook
 - Report PDF
-- Presentation Slides
-- Visualizations
